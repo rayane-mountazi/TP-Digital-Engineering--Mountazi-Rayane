@@ -29,8 +29,7 @@
 - Simulation et résolution d'un conflit Git.
 - Publication des modifications finales sur `main`.
 
-**Pull Request fusionnée :** [Ajouter ici le lien de la Pull Request]
-
+**Pull Request fusionnée :** https://github.com/Med-rai/calcul-c-equipe/pull/1
 ## Bilan des commandes Git
 
 ### `git status`
